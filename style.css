@@ -51,7 +51,7 @@ a:hover{
 		border: 2px solid black;
 	}
 }
-@media (max-width: 767px){
+@media (max-width: 768px){
 	.jumbotron{
 		background: 
 		margin-top: 30px;
